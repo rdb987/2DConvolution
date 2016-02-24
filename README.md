@@ -7,4 +7,4 @@ the original image. Convolution consists in modifying an original input matrix b
 kernel, generally of smaller dimensions. Given a pixel (x,y), so called central pixel, of the image
 matrix, the convolution consists in centering the kernel matrix on this value. Its value and the
 neighbors values are multiplied for the corresponding values in the kernel. Results are sum up
-and the nal sum is saved in the original (x,y) initial coordinates.
+and the final sum is saved in the original (x,y) initial coordinates.
